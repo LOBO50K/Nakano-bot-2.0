@@ -96,9 +96,9 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
 global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`͟͞ 𓆩ꪶꪾ𝘿᪶𝙞ᷨ𝙖ᷞ𝙢ͣ𝙤᪶ͨ𝙣ᷜ𝙙ꫂৎ୭࠱࠭ ͟͞`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `⏤͟͞ू⃪ ፝͜⁞M͢ᴇɢ፝֟ᴜᴍ⃨ɪɴ⃜✰⃔࿐\n  ͟͞ 𓆩ꪶꪾ𝘿᪶𝙞ᷨ𝙖ᷞ𝙢ͣ𝙤᪶ͨ𝙣ᷜ𝙙ꫂৎ୭࠱࠭ ͟͞`, 'jpegThumbnail': logo4 }}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp4 = 'https://chat.whatsapp.com/KM5pJJnApir7TgkCnVIIoS' //Grupo Oficial De Nakano
-global.gp1 = 'https://chat.whatsapp.com/KM5pJJnApir7TgkCnVIIoS' //Grupo 
-global.gp2 = 'https://chat.whatsapp.com/KM5pJJnApir7TgkCnVIIoS'//
+global.gp4 = 'https://chat.whatsapp.com/DToXV6TAU8xFH1vBFT9lrq' //Grupo Oficial De Nakano
+global.gp1 = 'https://chat.whatsapp.com/DToXV6TAU8xFH1vBFT9lrq' //Grupo 
+global.gp2 = 'https://chat.whatsapp.com/DToXV6TAU8xFH1vBFT9lrq'//
 global.comunidad1 = 'https://chat.whatsapp.com/Edih0ePD45VKCwmAbkretr' //Comunidad Nakano
 global.channel = 'https://whatsapp.com/channel/0029VaXDEwlC1FuFm82otA0K' //Canal Oficial
 global.yt = 'https://www.youtube.com/@LOBO_RANDOMOFICIAL' //Canal De Youtube
