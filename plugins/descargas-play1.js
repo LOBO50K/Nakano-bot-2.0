@@ -38,11 +38,12 @@ console.log(`❗❗ᴇʀʀᴏʀ ${usedPrefix + command} ❗❗`)
 console.log(e)
 handler.limit = 0
 }}
+handler.help = ['play', 'play2', 'play3', 'play4', 'playt']
 handler.tags = ['descargas']
-handler.command = ['play', 'play2', 'play3', 'play4', 'playt']
-//handler.limit = 3
+handler.estrellas = 2
 handler.register = true 
 handler.group = true
+handler.command = ['play', 'play2', 'play3', 'play4', 'playt']
 export default handler;
 
 async function search(query, options = {}) {
