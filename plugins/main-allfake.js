@@ -63,7 +63,7 @@ global.waittt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗮 ...*';
 
 //Enlaces
-var grupo = 'https://chat.whatsapp.com/KM5pJJnApir7TgkCnVIIoS'
+var grupo = 'https://chat.whatsapp.com/DToXV6TAU8xFH1vBFT9lrq'
 var canal = 'https://whatsapp.com/channel/0029VaXDEwlC1FuFm82otA0K'  
 var git = 'https://github.com/LOBO50K' 
 var youtube = 'https://www.youtube.com/@LOBO_RANDOMOFICIAL' 
