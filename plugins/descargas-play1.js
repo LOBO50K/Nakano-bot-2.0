@@ -38,6 +38,7 @@ console.log(`❗❗ᴇʀʀᴏʀ ${usedPrefix + command} ❗❗`)
 console.log(e)
 handler.limit = 0
 }}
+handler.tags = ['descargas']
 handler.command = ['play', 'play2', 'play3', 'play4', 'playt']
 //handler.limit = 3
 handler.register = true 
