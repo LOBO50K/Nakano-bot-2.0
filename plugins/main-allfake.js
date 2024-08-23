@@ -65,10 +65,10 @@ global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 //Enlaces
 var grupo = 'https://chat.whatsapp.com/KM5pJJnApir7TgkCnVIIoS'
 var canal = 'https://whatsapp.com/channel/0029VaXDEwlC1FuFm82otA0K'  
-var git = 'https://github.com/David-Chian' 
-var youtube = 'https://youtube.com/@davidchian4957' 
-var github = 'https://github.com/David-Chian/Megumin-Bot-MD' 
-let correo = 'noisebot40@gmail.com'
+var git = 'https://github.com/LOBO50K' 
+var youtube = 'https://www.youtube.com/@LOBO_RANDOMOFICIAL' 
+var github = 'https://github.com/LOBO50K/Nakano-bot-2.0.git' 
+let correo = 'playperfect344@gmail.com
 
 global.redes = [canal, grupo, git, youtube, github, correo].getRandom()
 
