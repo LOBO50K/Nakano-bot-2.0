@@ -8,10 +8,10 @@ let str = `*💞 𝕲𝖗𝖚𝖕𝖔𝖘 𝖔𝖋𝖎𝖈𝖎𝖆𝖑𝖊𝖘 �
   ┃🧸❏ ${gp1}
 
    *⋰∴⋱⋰∴⋱𝕲𝖗𝖚𝖕𝖔 𝖔𝖋𝖎𝖈𝖎𝖆𝖑 𝖉𝖊 𝖑𝖆 𝕭𝖔𝖙✍︎ꨄ*
-┃🧸❏ https://chat.whatsapp.com/KM5pJJnApir7TgkCnVIIoS
+┃🧸❏ https://chat.whatsapp.com/DToXV6TAU8xFH1vBFT9lrq
    
    *❄︎𝕲𝖗𝖚𝖕𝖔𝖘 𝕺𝕱𝕮 𝖉𝖊𝖑 𝖑𝖆 𝕭𝖔𝖙*
-┃🧸❏ https://chat.whatsapp.com/KM5pJJnApir7TgkCnVIIoS
+┃🧸❏ https://chat.whatsapp.com/DToXV6TAU8xFH1vBFT9lrq
 
    *✎𝕮𝖆𝖓𝖆𝖑 𝖔𝖋𝖎𝖈𝖚𝖆𝖑 𝖉𝖊 𝖑𝖆 𝕭𝖔𝖙*
 ┃❤️‍🔥❏ https://whatsapp.com/channel/0029VaXDEwlC1FuFm82otA0K
