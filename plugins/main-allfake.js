@@ -68,7 +68,7 @@ var canal = 'https://whatsapp.com/channel/0029VaXDEwlC1FuFm82otA0K'
 var git = 'https://github.com/LOBO50K' 
 var youtube = 'https://www.youtube.com/@LOBO_RANDOMOFICIAL' 
 var github = 'https://github.com/LOBO50K/Nakano-bot-2.0.git' 
-let correo = 'playperfect344@gmail.com
+let correo = 'playperfect344@gmail.com'
 
 global.redes = [canal, grupo, git, youtube, github, correo].getRandom()
 
