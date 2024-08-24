@@ -1,16 +1,16 @@
 > 🚩 Versión Actual: 3.0.1
 
-## 💥 **`Megumin - Bot - MD`**
-## 💥 **`El bot más explosivo de WhatsApp!`**
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Megumin+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+David+Chian;💥+BOOM!!!;🔥)](https://git.io/typing-svg)
-![Megumin](https://telegra.ph/file/b8170842d84523340c674.jpg)
+## 💞 **`𝙽𝙰𝙺𝙰𝙽𝙾 - 𝙱𝙾𝚃 - 𝙾𝙵𝙲`**
+## 💞 **`𝙴𝙻 𝙱𝙾𝚃 𝙼𝙰𝚂 𝙻𝙸𝙽𝙳𝙾 𝙳𝙴 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Nakano+-+Bot+-+OFC;Gracias+por+preferirnos;Creado+por+Lobo;💖+Sensei!!!;💞)](https://git.io/typing-svg)
+![Nakano](https://telegra.ph/file/ba3bb9737d903a0994570.jpg)
 
 ---
 
-> **`AVISO`**: Megumin-Bot no funciona en la terminal (termux).
+> **`AVISO`**: 𝙽𝙰𝙺𝙰𝙽𝙾-𝙱𝙾𝚃 𝙽𝙾 𝙵𝚄𝙽𝙲𝙲𝙸𝙾𝙽𝙰 𝙴𝙽 𝙻𝙰 𝚃𝙴𝚁𝙼𝙸𝙽𝙰𝙻 (termux).
 > Estaremos arreglando el error de la bot para que se pueda instalar en la terminal (termux).
 
-> **`Megumin - Bot - MD`** es un super bot de WhatsApp con multi funciones.
+> **`𝙽𝙰𝙺𝙰𝙽𝙾 - 𝙱𝙾𝚃 - 𝙾𝙵𝙲`** es un super bot de WhatsApp con multi funciones.
 ---
 
 ### <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Prueba La Bot Aqui" width="42" height="42"> Prueba La Bot Aqui
